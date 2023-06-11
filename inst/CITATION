@@ -1,0 +1,13 @@
+citHeader("To cite discursive in publications use:")
+
+bibentry(
+  bibtype  = "Article",
+  title    = "Women Also Know Stuff: Challenging the Gender Gap in Political Sophistication",
+  author   = "Patrick W. Kraft",
+  journal  = "American Political Science Review",
+  year     = "2023",
+  volume   = "forthcoming",
+  number   = "",
+  pages    = "",
+  url      = ""
+)
